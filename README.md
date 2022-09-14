@@ -1,6 +1,4 @@
 # About me
 
 - 👋 Hi, I’m Ben &#x1F98A;
-and I’m an Undergraduate Computer Science student at Goldsmiths, University of London, going on to specialise in Data Science &#127891;
-
-Work on here mostly in p5js or latex.
+and I’m an Undergraduate Computer Science student at Goldsmiths (Second semester), University of London.
